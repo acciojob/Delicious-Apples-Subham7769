@@ -13,7 +13,7 @@
 .product__photo{
     position: relative;
     width: 50%;
-    height: 500px;
+    height: 85%;
     margin-left: -50px;
     border: none !important;;
 }
