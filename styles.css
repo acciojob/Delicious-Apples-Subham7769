@@ -33,7 +33,7 @@
     height: 80%!important;
     background-image: radial-gradient(rgb(232, 251, 168),yellowgreen,rgb(174, 250, 44))!important;
 }
-.photo-main{
+.photo-main>img{
     width: 100%;
     margin-left: -100px;
     transition: transform 0.8s ease;
